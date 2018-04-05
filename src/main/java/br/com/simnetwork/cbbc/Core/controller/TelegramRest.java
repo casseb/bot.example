@@ -103,7 +103,7 @@ public class TelegramRest
 
 						} else {
 							// envio da mensagem de opções
-							bot.execute(new SendMessage(update.message().chat().id(),
+						    sendResponse = bot.execute(new SendMessage(update.message().chat().id(),
 									"Digite uma das seguintes opções:" + "\n /keyboard" + "\n /limparkeyboard"
 											+ "\n /pedircontato" + "\n /pedirlocalizacao" + "\n /keyboardInlineUrl"
 											+ "\n /keyboardInlineCallBack" + "\n /updateNormalMessage"));
