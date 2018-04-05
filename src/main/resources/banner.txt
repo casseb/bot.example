@@ -1,0 +1,28 @@
+
+             CCC    CCCCCCCCCCCCCC    CCCCCCCC   
+        CCCCCCCC    CCCCCCCCCCCCCCC CCCC    CCCC 
+      CCCCC                        CCCC      CCC 
+    CCCC                           CCC           
+  CCCC                             CCC           
+ CCCC   CCCCCCC        CCCCCCC     CCC           
+ CCC   CCCCCCCCCCC CCCCCC   CCCC   CCC           
+ CCC  CCC       CCCCC         CCCCCCCCCCCC       
+ CCC  CCC      CCCCCCCC       CCC CCC            
+ CCCC  CCCCCCCCC     CCCCCCCCCC  CCCC            
+  CCCC                           CCC             
+   CCCC                         CCC              
+     CCCCC                    CCCC               
+        CCCCCCCC          CCCCCC                 
+           CCCCC    CCCCCCCCCC   
+                                                                                        
+  _ __           _____                   _     
+ |  _ \         / ____|                 | |    
+ | |_) |_   _  | |     __ _ ___ ___  ___| |__  
+ |  _ <| | | | | |    / _` / __/ __|/ _ \ '_ \ 
+ | |_) | |_| | | |___| (_| \__ \__ \  __/ |_) |
+ |____/ \__, |  \_____\__,_|___/___/\___|_.__/ 
+         __/ |                                 
+        |___/                                  
+
+Spring Boot${spring-boot.formatted-version} :: ${Ansi.DEFAULT}
+
