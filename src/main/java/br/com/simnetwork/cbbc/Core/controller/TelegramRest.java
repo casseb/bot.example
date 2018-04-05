@@ -94,7 +94,7 @@ public class TelegramRest
 
 							})));
 						} else if (update.message().text().equals("/updateNormalMessage")) {
-							bot.execute(
+						    sendResponse = bot.execute(
 									new SendMessage(update.message().chat().id(), "Mensgem original aguarde..."));
 							new Thread();
 							Thread.sleep(2000);
